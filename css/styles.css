@@ -39,6 +39,9 @@ nav {
 .container-card {
   display: flex;
   margin-top: 30px;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
 }
 
 .card {
